@@ -1,6 +1,4 @@
-fix arrows on carrousel
-make scroll thingie work
+fix (or eliminate) arrows on carrousel
 format contact model
-change one more project
-
-figure out how to make both projects work (for demonstration purposes)
+fix broken image links
+make sure project are hosted properly on github
